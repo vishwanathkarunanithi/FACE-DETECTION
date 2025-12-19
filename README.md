@@ -124,10 +124,3 @@ Velammal Institute of Technology
 ## 📄 License
 
 This project is intended for **academic and educational purposes only**.
-
-```
-
----
-
-If you want a **short GitHub description**, **resume version**, or **portfolio version**, say **which one** and I’ll give it in the same copy-paste format.
-```
